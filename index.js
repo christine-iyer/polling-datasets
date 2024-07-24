@@ -11,6 +11,7 @@ const csvFiles = [
     'genericBallotAverages.csv', 
     'genericBallotPollsHistorical.csv', 
     'genericBallotPolls.csv', 
+    'housePolls.csv',
     'housePollsHistorical.csv', 
     'presidentApprovalPollsHistorical.csv', 
     'presidentApprovalPolls.csv',
